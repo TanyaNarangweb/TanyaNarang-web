@@ -48,6 +48,24 @@ An ML-based neuro-aviation readiness analysis system that processes physiologica
 
 🔗 **Repository:**  
 👉(https://github.com/tanya9899)/PRANA-Predictive-Readiness-Analysis-of-Neuro-Aviation)
+<hr>
+
+## 🏆 Achievements
+
+- 🥇 **Summer Intern @ DMRC** – 2 months
+- 🧪 **Research Intern @ DRDO** – 5 months (Neurocomputing & AI)
+
+---
+
+## 📫 Connect with Me
+
+- 💼 **LinkedIn:** - https://www.linkedin.com/in/tanya-narang-09b139289
+- 💻 **GitHub:** - https://github.com/tanya9899
+- 📧 **Email:** - ntanya546@gmail.com
+
+---
 
 
+  ⭐"Turning ideas into intelligent systems powered by AI."</i>
+</p>
 
