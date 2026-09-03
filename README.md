@@ -61,7 +61,7 @@ An ML-based neuro-aviation readiness analysis system that processes physiologica
 ## 📫 Connect with Me
 
 - 💼 **LinkedIn:** - https://www.linkedin.com/in/tanya-narang-09b139289
-- 💻 **GitHub:** - https://github.com/tanya9899
+- 💻 **GitHub:** - https://github.com/TanyaNarangweb
 - 📧 **Email:** - ntanya546@gmail.com
 
 ---
