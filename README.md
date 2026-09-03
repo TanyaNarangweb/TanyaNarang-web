@@ -10,6 +10,7 @@
 ## 🚀 About Me
 
 - 🔬 Worked on **EEG signal analysis & ML models** during DRDO internship
+- 🚇 Studied HVAC systems, operation, diagnostics & maintenance of Bombardier Metro trains at DMRC
 <hr>
 
 ## 🛠️ Tech Stack
