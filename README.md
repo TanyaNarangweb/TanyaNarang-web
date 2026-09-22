@@ -48,7 +48,7 @@ An ML-based neuro-aviation readiness analysis system that processes physiologica
 - 📈 Confusion matrix and accuracy-based model comparison
 
 🔗 **Repository:**  
-👉(https://github.com/tanya9899)/PRANA-Predictive-Readiness-Analysis-of-Neuro-Aviation)
+👉https://github.com/TanyaNarangweb/PRANA/
 <hr>
 
 ## 🏆 Achievements
