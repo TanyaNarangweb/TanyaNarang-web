@@ -1,8 +1,8 @@
 # Hi there, I'm Tanya Narang 👋
 
-🎓 B.Tech (MAE) @ Indira Gandhi Delhi Technical University for Women  
-🚇 Ex Summer Intern @DMRC
-🧠 Former Research Intern @ DRDO (Neurocomputing & AI)  
+🎓 **B.Tech (MAE)** @ Indira Gandhi Delhi Technical University for Women  
+🚇 **Ex Summer Intern** @ DMRC  
+🧠 **Former Research Intern** @ DRDO (Neurocomputing & AI)
 
 
 <hr>
